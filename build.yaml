@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  - board: adafruit_feather_nrf52840
     shield: ergofan
